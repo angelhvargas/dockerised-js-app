@@ -1,0 +1,7 @@
+node_modules
+*.lock
+.gitignore
+
+.DS_Store
+
+.idea/*
